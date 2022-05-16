@@ -30,8 +30,6 @@
 
 <section class="popular" id="popular">
 
-    <h1 class="heading"> most <span>popular</span> Korean Foods </h1>
-
     <div class="box-container">
 
         <div class="box">
