@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+  <!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8">
@@ -28,58 +28,27 @@
     </nav>
     </header>
 
-<section class="popular" id="popular">
+<section class="review" id="review">
 
-    <h1 class="heading"> most <span>popular</span> Korean Foods </h1>
+    <h1 class="heading"> our customers <span>reviews</span> </h1>
 
     <div class="box-container">
 
         <div class="box">
-            <span class="price"> 1,000 - 1,300 KRW </span>
-            <img src="images/c-img-1.jpg" alt="">
-            <h3>Ramyeon</h3>
-            <a href="#" class="btn">order now</a>
-        </div>
-        <div class="box">
-            <span class="price"> 1,000 - 8,000 KRW </span>
-            <img src="images/c-img-2.jpg" alt="">
-            <h3>Tteokbokki</h3>
-            <a href="#" class="btn">order now</a>
-        </div>
-        <div class="box">
-            <span class="price"> 7000 – 12000 KRW </span>
-            <img src="images/c-img-4.jpg" alt="">
-            <h3>Donkatsu</h3>
-            <a href="#" class="btn">order now</a>
-        </div>
-        <div class="box">
-            <span class="price"> 1500 KRW </span>
-            <img src="images/soju.jpg" alt="">
-            <h3>Soju</h3>
-            <a href="#" class="btn">order now</a>
-        </div>
-        <div class="box">
-            <span class="price"> 2000 KRW </span>
-            <img src="images/c-img-6.jpg" alt="">
-            <h3>Buldak</h3>
-            <a href="#" class="btn">order now</a>
-        </div>
-        <div class="box">
-            <span class="price"> $6-7 </span>
-            <img src="images/milk.jpg" alt="">
-            <h3>Strawberry Milk</h3>
-            <a href="#" class="btn">order now</a>
-        </div>
-        <div class="box">
-            <span class="price"> 1200 KRW </span>
-            <img src="images/yakgwa.jpg" alt="">
-            <h3>Yakgwa</h3>
-            <a href="#" class="btn">order now</a>
+            <img src="images/Logo.png" alt="">
+            <h3>Hot Spot</h3>
+            <p>For more information, feel free to contact us at our official websites below. You can also order your food of choice via these websites. Have a great day!</p>
+            <p>EMAIL ADDRESS: hotspot@gmail.com</p>
+            <p>FACEBOOK: Hot Spot</p>
+            <p>INSTAGRAM: @hotspot__</p>
+            <p>TWITTER: @hotspot_ksf</p>
+            <p>Hot Spot - KoreanSpicyFood</p>
         </div>
 
     </div>
 
 </section>
+
 
 <section class="footer">
 
@@ -96,4 +65,4 @@
 
 
 </body>
-</html>
+</html>      

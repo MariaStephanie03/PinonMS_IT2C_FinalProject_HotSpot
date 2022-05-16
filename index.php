@@ -25,6 +25,7 @@
         <a class="nav-link text-light" href="desserts_recipes.php">Desserts Recipes</a></li>
         <a class="nav-link text-light" href="reviews.php">Reviews</a></li>
         <a class="nav-link text-light" href="about_us.php">About Us</a></li>
+        <a class="nav-link text-light" href="contacts.php">Contacts</a></li>
     </nav>
 	</header>
 

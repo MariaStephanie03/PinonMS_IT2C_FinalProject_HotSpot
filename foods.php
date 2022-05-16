@@ -24,6 +24,7 @@
         <a class="nav-link text-light" href="desserts_recipes.php">Desserts Recipes</a></li>
         <a class="nav-link text-light" href="reviews.php">Reviews</a></li>
         <a class="nav-link text-light" href="about_us.php">About Us</a></li>
+        <a class="nav-link text-light" href="contacts.php">Contacts</a></li>
     </nav>
     </header>
 
@@ -55,47 +56,12 @@
             </div>
         </div>
         <div class="box">
-            <img class="image" src="images/b-img-3.jpg" alt="">
-            <div class="content">
-                <img src="images/s-3.png" alt="">
-                <h3>Jjambbong</h3>
-                <p>Korean Seafood Noodle Soup</p>
-                <p>Jjambbong is spicy noodle soup in seafood or pork broth that is loaded with various type of seafood. This hearty dish was developed by early Chinese immigrants in Korea during the Japanese forced occupation.</p>
-            </div>
-        </div>
-        <div class="box">
             <img class="image" src="images/b-img-4.jpg" alt="">
             <div class="content">
                 <img src="images/s-4.png" alt="">
                 <h3>Chikin</h3>
                 <p>Korean Fried Chicken</p>
                 <p>Korean Fried Chicken are usually double fried until extra crispy, then smothered in a sticky, sweet and spicy sauce. Some of the key ingredients to make the sauce is gochujang, soy sauce, garlic and ginger.</p>
-            </div>
-        </div>
-        <div class="box">
-            <img class="image" src="images/b-img-5.jpg" alt="">
-            <div class="content">
-                <img src="images/s-5.png" alt="">
-                <h3>Maeundae galbijjim 갈비찜</h3>
-                <p>Braised short-rib Stew</p>
-                <p>Another extremely popular spicy Korean food, galbi jjim is a braised short ribs stew served tender enough that they’ll fall apart in your mouth.</p>
-                <p>Galbijjim is sweet and savory beef ribs until chilli and gochujang is being dropped into the stew mix, as a result it become Maeundae galbijjim which literally translate to Spicy Beef Rib Stew.</p>
-            </div>
-        </div>
-        <div class="box">
-            <img class="image" src="images/b-img-6.jpg" alt="">
-            <div class="content">
-                <h3>Budae jjigae</h3>
-                <p>Army Stew</p>
-                <p>Army Stew is a stew dish created soon after the end of the Korean war when food was scarce. Thus, the Korean started to use leftover food from US army bases such as spam, sausage and sliced ham combined with traditional Korean ingredients such as Kimchi and gochujang. Today Army Stew is widely available in Korea and is one of the most popular hot pot dishes in the country.</p>
-            </div>
-        </div>
-        <div class="box">
-            <img class="image" src="images/b-img-10.jpg" height = "526"alt="">
-            <div class="content">
-                <h3>Buldak</h3>
-                <p>Fire Chicken</p>
-                <p>Buldak is a spicy chicken dish that is becoming very popular amongst the younger generation of Koreans everywhere. Its popularity has been attributed to both its unique flavors and spiciness. Keep in mind, the term bul means fire in Korean and dak is chicken, so it can get quite spicy in taste.</p>
             </div>
         </div>
         <div class="box">

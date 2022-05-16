@@ -24,6 +24,7 @@
         <a class="nav-link text-light" href="desserts_recipes.php">Desserts Recipes</a></li>
         <a class="nav-link text-light" href="reviews.php">Reviews</a></li>
         <a class="nav-link text-light" href="about_us.php">About Us</a></li>
+        <a class="nav-link text-light" href="contacts.php">Contacts</a></li>
     </nav>
     </header>
 
@@ -50,7 +51,7 @@
                 <p><strong>Ingredients:</strong></p>
                 <p><strong>Strawberry puree:</strong><br>
                     <em>1.</em> 1 cup (8-10) fresh strawberries stems removed<br>
-                    <em>2.</em> 1/2 cup sweetened condensed milk can be substituted with honey, maple syrup, or sugar</p>
+                    <em>2.</em> 1/2 cup sweetened condensed milk can be substituted with honey, maple syrup, or sugar.</p>
 
                 <p><strong>To serve (per each cup):</strong><br>
                     <em>1.</em> 1/2 cup strawberry puree or more<br>

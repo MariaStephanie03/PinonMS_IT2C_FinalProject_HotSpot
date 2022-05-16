@@ -24,6 +24,7 @@
         <a class="nav-link text-light" href="desserts_recipes.php">Desserts Recipes</a></li>
         <a class="nav-link text-light" href="reviews.php">Reviews</a></li>
         <a class="nav-link text-light" href="about_us.php">About Us</a></li>
+        <a class="nav-link text-light" href="contacts.php">Contacts</a></li>
     </nav>
     </header>
 
@@ -39,7 +40,7 @@
             <div class="content">
                 <img src="images/a-img-1" alt="">
                 <h3>Yakgwa (약과; 藥菓)</h3>
-                <p>Also called gwajul (과줄), is a type of yumil-gwa, which is deep-fried, wheat-based hangwa (Korean confection) made with honey, cheongju (rice wine), sesame oil, and ginger juice. Traditionally, the sweet was offered in a jesa (ancestral rite) and enjoyed on festive days such as chuseok (harvest festival), marriages, or hwangap (sixtieth-birthday) celebrations. In modern South Korea, it is also served as a dessert and can be bought at traditional markets or supermarkets</p>
+                <p>Also called gwajul (과줄), is a type of yumil-gwa, which is deep-fried, wheat-based hangwa (Korean confection) made with honey, cheongju (rice wine), sesame oil, and ginger juice. Traditionally, the sweet was offered in a jesa (ancestral rite) and enjoyed on festive days such as chuseok (harvest festival), marriages, or hwangap (sixtieth-birthday) celebrations. In modern South Korea, it is also served as a dessert and can be bought at traditional markets or supermarkets.</p>
             </div>
         </div>
         <div class="box">
